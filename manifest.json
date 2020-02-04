@@ -1,0 +1,7 @@
+{
+  "name": "book-appointment",
+  "short_name": "book-appointment",
+  "description": "to book appointment",
+  "start_url": "/",
+  "display": "standalone"
+}
